@@ -1,2 +1,2 @@
 # Tycloud-Stuff
-This is for tycloud, has icons etc
+This is for tycloud.
